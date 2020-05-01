@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="callText">Premium Feature</string>
+    <string name="search">Search</string>
+</resources>
